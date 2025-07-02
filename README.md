@@ -6,7 +6,7 @@ An interactive Power BI dashboard designed to monitor and visualize **student ac
 
 ## 🎬 Dashboard Demo Video  
 
-🎥 [**Watch Dashboard Walkthrough**](YOUR_VIDEO_LINK_HERE)  
+🎥 [**Watch Dashboard Walkthrough**](https://drive.google.com/file/d/1LfFgXMYUgi72tCBq2Sz_3_CvsApRHIzQ/view?usp=sharing)  
 
 *A short video showcasing the features and interactivity of the Academic Pulse dashboard.*  
 
