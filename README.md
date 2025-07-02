@@ -30,11 +30,11 @@ Open the `.pbix` file in Power BI Desktop to explore the complete interactive da
 
 ## 💡 Key Features  
 
-✔️ Department-wise academic performance overview  
 ✔️ Attendance tracking with visual insights  
 ✔️ Student-level performance drill-down  
 ✔️ Role-based views for Students, Faculty, and Parents  
 ✔️ Comparative analysis using filters and slicers  
+✔️ Built using Power BI, DAX, and Power Query
 
 ---
 
