@@ -14,17 +14,17 @@ An interactive Power BI dashboard designed to monitor and visualize **student ac
 
 ## 📂 Dataset  
 
-📊 [**Download Academic Pulse Dataset (.zip)**](YOUR_DATASET_LINK_HERE)  
+📊 [**Download Academic Pulse Dataset (.xlsx)**](https://github.com/vinithasriprathipati/academic_pulse/raw/main/Academic_Pulse_Main_Data.xlsx)  
 
-The dataset contains student information including marks, attendance, and department details used for academic analysis.
+The dataset contains student-level academic details including marks, attendance, and department information used for analysis.
 
 ---
 
 ## 📄 Download the Power BI Report  
 
-📥 [**Download Academic Pulse.pbix**](YOUR_PBIX_LINK_HERE)  
+📥 [**Download Academic Pulse.pbix**](https://github.com/vinithasriprathipati/academic_pulse/raw/main/Academic%20Pulse.pbix)  
 
-Open this file in Power BI Desktop to explore the complete interactive dashboard.
+Open the `.pbix` file in Power BI Desktop to explore the complete interactive dashboard.
 
 ---
 
